@@ -13,6 +13,12 @@
     .header {
         padding: 10px 0;
     }
+    .blog_container {
+        padding: 0 20px;
+    }
+    .footer {
+        padding: 15px 20px;
+    }
 }
 
 @media (max-width:1250px) {
@@ -76,10 +82,19 @@
         padding: 120px 0;
     }
     .banner_caption h1 {
-        font-size: 33px;
+        font-size: 30px;
         padding: 5px 0;
     }
     .banner_caption h2 {
         padding: 6px 20px;
+    }
+    .blog_item {
+        padding: 0px 20px;
+    }
+    .blog_righit_notification {
+        padding: 0 25px;
+    }
+    .blog_righit_notification {
+        width: 90%;
     }
 }
